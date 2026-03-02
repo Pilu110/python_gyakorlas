@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+.DS_Store
+.env
+venv/
+.envrc
+*.log
+*.sqlite3
+*.db
+.idea/
+*.iml
+.vscode/
+# PyCharm és VSCode konfigurációk is kizárva
